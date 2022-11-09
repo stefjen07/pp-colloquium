@@ -1,5 +1,7 @@
-package com.stefjen07.colloquium.string_processor.service;
+package com.stefjen07.colloquium.string_processor;
 
+import com.stefjen07.colloquium.string_processor.service.StringProcessorService;
+import com.stefjen07.colloquium.string_processor.service.StringProcessorServiceImpl;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

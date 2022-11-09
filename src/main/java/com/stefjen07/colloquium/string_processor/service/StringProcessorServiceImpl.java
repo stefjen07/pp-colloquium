@@ -1,7 +1,12 @@
 package com.stefjen07.colloquium.string_processor.service;
 
+import lombok.RequiredArgsConstructor;
+import org.springframework.stereotype.Service;
+
 import java.util.Collections;
 
+@Service
+@RequiredArgsConstructor
 public class StringProcessorServiceImpl implements StringProcessorService {
     @Override
     public String concatenate(String str1, String str2) {

@@ -9,7 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d171a1e1-6f41-4752-9eda-5f1183bd7d08" name="Changes" comment="Next learning date calculation" />
+    <list default="true" id="d171a1e1-6f41-4752-9eda-5f1183bd7d08" name="Changes" comment="Next learning date calculation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefjen07/colloquium/string_processor/dto/request/StringConcatenateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/colloquium/string_processor/dto/request/StringConcatenateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefjen07/colloquium/string_processor/dto/request/StringRepeatRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/colloquium/string_processor/dto/request/StringRepeatRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefjen07/colloquium/string_processor/service/StringProcessorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/colloquium/string_processor/service/StringProcessorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefjen07/colloquium/string_processor/service/StringProcessorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefjen07/colloquium/string_processor/service/StringProcessorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stefjen07/colloquium/string_processor/service/StringProcessorServicelTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -38,7 +46,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2FfGfN3xVxx1CvpeMJB1uQj2auL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20221109_0005",
+    "com.google.cloudcode.ide_session_index": "20221109_0007",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "C:/Users/stefj/Documents/GitHub/lang-backend/src/main/webapp/WEB-INF",
@@ -65,11 +73,12 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.097751714",
     "project.structure.side.proportion": "0.1150748",
     "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
-    "spring.configuration.checksum": "28336a41ce35c4d40c230e2510ab9d4e"
+    "spring.configuration.checksum": "28336a41ce35c4d40c230e2510ab9d4e",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -80,6 +89,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.stefjen07.colloquium.string_processor" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.stefjen07.colloquium.string_processor.service" />
@@ -95,10 +107,21 @@
   <component name="RunManager" selected="JUnit.colloquium-test">
     <configuration name="colloquium-test" type="JUnit" factoryName="JUnit">
       <module name="pp-colloquium" />
-      <option name="PACKAGE_NAME" value="com.stefjen07.colloquium.string_processor.service" />
-      <option name="MAIN_CLASS_NAME" value="com.stefjen07.colloquium.string_processor.service.StringProcessorServiceTest" />
+      <option name="PACKAGE_NAME" value="com.stefjen07.colloquium.string_processor" />
+      <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,7 +176,8 @@
       <workItem from="1667977203899" duration="1114000" />
       <workItem from="1667978787543" duration="98000" />
       <workItem from="1667978900457" duration="45000" />
-      <workItem from="1667978952762" duration="2437000" />
+      <workItem from="1667978952762" duration="11199000" />
+      <workItem from="1668004682973" duration="1407000" />
     </task>
     <task id="LOCAL-00001" summary="Learning modules system">
       <created>1665063835073</created>
