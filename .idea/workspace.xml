@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lang-backend:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d171a1e1-6f41-4752-9eda-5f1183bd7d08" name="Changes" comment="Next learning date calculation" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2FfGfN3xVxx1CvpeMJB1uQj2auL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.google.cloudcode.ide_session_index": "20221109_0005",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/stefj/Documents/GitHub/lang-backend/src/main/webapp/WEB-INF",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.097751714",
+    "project.structure.side.proportion": "0.1150748",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "spring.configuration.checksum": "28336a41ce35c4d40c230e2510ab9d4e"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/stefjen07" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stefjen07.colloquium.string_processor.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="gcp-app-engine-local-run" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.colloquium-test">
+    <configuration name="colloquium-test" type="JUnit" factoryName="JUnit">
+      <module name="pp-colloquium" />
+      <option name="PACKAGE_NAME" value="com.stefjen07.colloquium.string_processor.service" />
+      <option name="MAIN_CLASS_NAME" value="com.stefjen07.colloquium.string_processor.service.StringProcessorServiceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pp-colloquium" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="pp-colloquium" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stefjen07.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.colloquium-test" />
+      <item itemvalue="Spring Boot.pp-colloquium" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d171a1e1-6f41-4752-9eda-5f1183bd7d08" name="Changes" comment="" />
+      <created>1664875832005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664875832005</updated>
+      <workItem from="1664875836355" duration="1147000" />
+      <workItem from="1664923488534" duration="522000" />
+      <workItem from="1664956561992" duration="2567000" />
+      <workItem from="1665045990780" duration="14745000" />
+      <workItem from="1665158520869" duration="13479000" />
+      <workItem from="1665231179835" duration="2392000" />
+      <workItem from="1665611478343" duration="1858000" />
+      <workItem from="1665779494311" duration="894000" />
+      <workItem from="1665822557229" duration="446000" />
+      <workItem from="1665847341168" duration="14068000" />
+      <workItem from="1665939784660" duration="2604000" />
+      <workItem from="1665945530431" duration="9788000" />
+      <workItem from="1666032184873" duration="244000" />
+      <workItem from="1666036003827" duration="438000" />
+      <workItem from="1666039667011" duration="878000" />
+      <workItem from="1666043335197" duration="5011000" />
+      <workItem from="1666181672708" duration="2641000" />
+      <workItem from="1666203060807" duration="10957000" />
+      <workItem from="1666426656363" duration="697000" />
+      <workItem from="1666468496243" duration="2963000" />
+      <workItem from="1666687213618" duration="972000" />
+      <workItem from="1666795557024" duration="2053000" />
+      <workItem from="1666800323246" duration="1679000" />
+      <workItem from="1666802994530" duration="2504000" />
+      <workItem from="1666805656819" duration="8615000" />
+      <workItem from="1667912955139" duration="13566000" />
+      <workItem from="1667977203899" duration="1114000" />
+      <workItem from="1667978787543" duration="98000" />
+      <workItem from="1667978900457" duration="45000" />
+      <workItem from="1667978952762" duration="2437000" />
+    </task>
+    <task id="LOCAL-00001" summary="Learning modules system">
+      <created>1665063835073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665063835073</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Heroku integration">
+      <created>1665074707844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665074707844</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Learning modules fix">
+      <created>1665082895585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665082895585</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New module filling">
+      <created>1665158849633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665158849633</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed DB relations">
+      <created>1665231913721</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665231913721</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Word test flow">
+      <created>1666040936639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666040936639</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Theory test flow">
+      <created>1666182010909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666182010909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Word learning system sketch">
+      <created>1666212050686</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666212050686</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Word learning system sketch">
+      <created>1666213225796</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666213225796</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Next learning date calculation">
+      <created>1666252900949</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666252900949</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="User system" />
+    <MESSAGE value="Learning modules system" />
+    <MESSAGE value="Heroku integration" />
+    <MESSAGE value="Learning modules fix" />
+    <MESSAGE value="New module filling" />
+    <MESSAGE value="Fixed DB relations" />
+    <MESSAGE value="Word test flow" />
+    <MESSAGE value="Theory test flow" />
+    <MESSAGE value="Word learning system sketch" />
+    <MESSAGE value="Next learning date calculation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Next learning date calculation" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

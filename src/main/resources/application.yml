@@ -1,0 +1,17 @@
+jwt:
+    secret_word: 123456789
+    access_token_life_time: 36000000
+    refresh_token_life_time: 2147483647
+
+spring:
+    datasource:
+        url: jdbc:postgresql://ec2-34-242-84-130.eu-west-1.compute.amazonaws.com:5432/dc4o8idu12epkl
+        username: uevbdaqpcaolpq
+        password: 1ae8d1224bda29a494c040c18a1a7802d5c0db68c7a3529f895185a5eae0393a
+        driver-class-name: org.postgresql.Driver
+    jpa:
+        database-platform: org.hibernate.dialect.PostgreSQL94Dialect
+        generate-ddl: true
+        hibernate:
+            ddl-auto: update
+        show-sql: true
